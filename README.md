@@ -41,6 +41,5 @@ Students Enroller (Array Version) is a C++ program that allows the user to enrol
 * Finite Set
 
 # Notes
-# Notes
 * This program should be compiled and executed in a Linux Operating System environment.
 * This program has been tested extensively, without error, through the University of North Texas's Praktomat testing system.
