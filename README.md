@@ -6,13 +6,13 @@ Students Enroller (Array Version) is a C++ program that allows the user to enrol
 * Run Program: ./a.out
 
 # Program Commands
-* add <first-name> <last-name> <student-id> <classification> <major>: Adds a student to the Finite Set.
+* add \<first-name> \<last-name> \<student-id> \<classification> \<major>: Adds a student to the Finite Set.
 	* Examples:
 		<pre>
 		students> add Bugs Bunny 3229 Junior Business
 		students> add Donald Duck 230 Junior ComputerScience
 		</pre>
-* remove <student-id>: Removes a student from the Finite Set. Returns true if that student has been removed. Returns false if that student does not exist.
+* remove \<student-id>: Removes a student from the Finite Set. Returns true if that student has been removed. Returns false if that student does not exist.
 	* Examples:
 		<pre>
 		students> remove 123
@@ -20,7 +20,7 @@ Students Enroller (Array Version) is a C++ program that allows the user to enrol
 		students> remove 230
 		true
 		</pre>
-* print <attribute>: Prints a students' information from the Finite Set.
+* print \<attribute>: Prints a students' information from the Finite Set.
 	* Possible Attributes: firstname | lastname | id | classification | major
 	* Examples:
 		<pre>
